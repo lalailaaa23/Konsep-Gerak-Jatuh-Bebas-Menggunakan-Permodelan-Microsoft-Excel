@@ -1,0 +1,2 @@
+# Konsep-Gerak-Jatuh-Bebas-Menggunakan-Permodelan-Microsoft-Excel
+(https://youtu.be/X0WoRxAdjMs ) assalamualaikum warahmatullahi wabarakatuh 🙏 perkenalkan Saya Nurlaila Sari NIM : 1207030031 Jurusan : Fisika 2020 semester: 5 Fakultas Sains Dan Teknologi UIN Bandung  pada video kali ini, saya membuat permodelan animasi Excel Gerak Jatuh Bebas  video ini dibuat untuk memenuhi Tugas 01 dari  mata kuliah : Praktikum Fisika Komputasi dosen Pengampu : Mada Sanjaya WS. Ph.D  terimakasih, wassalamu'alaikum warahmatullahi wabarakatuh 🙏 
